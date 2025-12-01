@@ -1,7 +1,7 @@
 # 👾 **BabbageLabs**
 
 <p align="center">
-  <img src="./img/logo.png" alt="Logo BabbageLabs"/>
+  <img src="../img/logo.png" alt="Logo BabbageLabs"/>
 </p>
 
 ---
