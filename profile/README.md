@@ -1,7 +1,7 @@
 # 👾 **BabbageLabs**
 
 <p align="center">
-  <img src="../img/logo.png" alt="Logo BabbageLabs"/>
+  <img src="../img/header.png" alt="Logo BabbageLabs"/>
 </p>
 
 ---
@@ -29,11 +29,11 @@ Ser referência em inovação e excelência no desenvolvimento de software, torn
 ## 🧸 Membros da Equipe
 | Nome | Função |
 |------|--------|
-| [**Letícia França**](https://github.com/leticiafranca) | Gerente de Projeto / Designer UX/UI |
-| [**Angelina Ferreira**](https://github.com/angelinasilvaa) | Desenvolvedora Backend |
-| [**Beatriz Rodrigues**](https://github.com/cocacolaretornavel) | Desenvolvedora Backend |
+| [**Letícia França**](https://github.com/leticiafranca) | Designer UX/UI |
+| [**Angelina Ferreira**](https://github.com/angelinasilvaa) | Desenvolvedora Full-stack |
+| [**Beatriz Rodrigues**](https://github.com/cocacolaretornavel) | Desenvolvedora Full-stack |
 | [**Erik Araújo**](https://github.com/Erik13639) | Desenvolvedor Backend |
-| [**João Augusto**](https://github.com/Augusto1804) | Desenvolvedor Frontend / QA (Quality Assurance) |
+| [**João Augusto**](https://github.com/Augusto1804) | Testador / QA (Quality Assurance) |
 
 ---
 
